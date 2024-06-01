@@ -8,7 +8,7 @@ class Hyperparameters:
     save_model = True
     
     #total_timesteps = 10_000_000
-    total_timesteps = 3_000_000
+    total_timesteps = 3_300_000
     learning_rate = 1e-4
     #buffer_size = 1_000_000
     buffer_size = 2_50_000
