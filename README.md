@@ -1,2 +1,2 @@
 Lab0 - Train CNN, Experiment with Stochastic gradient descent (SGD) and Adam as the optimizer, activation as Tanh and LeakyReLU. Use of Tensorboard to Visualize the results. Transfer Learning from ImageNet to AlexNet on CIFAR-10 data, Transfer Learning from MNIST to SVHN dataset. Use of PyTorch framework.
-Lab1 - 
+Lab1 - Implement a Vanilla GAN as described by Goodfellow in his paper "https://arxiv.org/abs/1406.2661" to generate adversarial MNIST images. Implement conditional GAN so as to generate MNIST image of own choice (provide the number in input). Create adversarial images to fool a MNIST classifier as per paper by Jasoni Carter "https://github.com/jasonicarter/MNIST-adversarial-images".
